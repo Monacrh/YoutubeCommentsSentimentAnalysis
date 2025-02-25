@@ -15,7 +15,7 @@ This project performs **Sentiment Analysis** using a **BERT Neural Network** and
 - **Visualization**: Display the distribution of sentiment scores.
 
 ## Model
-We use the [nlptown/bert-base-multilingual-uncased-sentiment](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) model, which can classify text into 1 to 5 star ratings across multiple languages.
+I use the [nlptown/bert-base-multilingual-uncased-sentiment](https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment) model, which can classify text into 1 to 5 star ratings across multiple languages.
 
 ## Change YT video link
 In **Collect Review** you can change the driver.get('https://www.youtube.com/To any link of video you want')
